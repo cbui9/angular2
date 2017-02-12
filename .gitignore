@@ -1,1 +1,5 @@
 node_modules/
+!src/resources/
+src/*.js
+src/*js.map
+*.log
